@@ -16,7 +16,7 @@ I’m interested in turning raw data into useful business insights using SQL, Py
 ## Featured work
 | Project | Focus | Link |
 |---|---|---|
-| ApexPlanet Task 1 | Data cleaning and data quality | **Add the exact Task 1 repository URL** |
+| ApexPlanet Task 1 | Data cleaning and data quality | https://github.com/deepubhirmaan395-hash/Data-Immersion-Wrangling |
 | ApexPlanet Task 2 — Sales Analysis | Python, EDA and visualizations | https://github.com/deepubhirmaan395-hash/ApexPlanet-Task2-Sales-Analysis |
 | ApexPlanet Task 3 | Dashboard and analysis | https://github.com/deepubhirmaan395-hash/ApexPlanet-Task3-Interactive-Dashboard |
 | ApexPlanet Task 4 | Data storytelling and business recommendations | https://github.com/deepubhirmaan395-hash/ApexPlanet-Task4-Data-Storytelling |
@@ -33,7 +33,7 @@ The `index.html` file is a responsive personal portfolio website. It uses plain 
 5. Wait for GitHub Pages to publish the website. The usual URL format is `https://deepubhirmaan395-hash.github.io/`.
 
 ## Before sharing with recruiters
-- Confirm and add the exact Task 1 repository URL; Task 2, Task 3 and Task 4 links are included.
+- Task 1–4 project repository links are included above.
 - Add your actual LinkedIn profile URL and professional email.
 - Add a professional photo if you want one on the website.
 - Verify every project is complete, documented, and publicly accessible.
